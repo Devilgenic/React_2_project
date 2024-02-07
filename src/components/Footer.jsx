@@ -58,18 +58,18 @@ import {
               Social Media
             </Heading>
             <Button variant={'link'} colorScheme={'white'}>
-              <a target={'black'} href="https://youtube.com/6packprogrammer">
+              <a target={'black'} href="https://www.youtube.com/@_For_U">
                 Youtube
               </a>
             </Button>
             <Button variant={'link'} colorScheme={'white'}>
-              <a target={'black'} href="https://instagram.com/meabhisingh">
+              <a target={'black'} href="https://www.instagram.com/_pras_ha_nt/">
                 Instagram
               </a>
             </Button>
   
             <Button variant={'link'} colorScheme={'white'}>
-              <a target={'black'} href="https://github.com/meabhisingh">
+              <a target={'black'} href="https://github.com/Devilgenic">
                 Github
               </a>
             </Button>
